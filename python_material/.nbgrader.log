@@ -1,0 +1,56 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/268964i/Documents/TRAINING/SWC-Python
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=a73804e97fd8ffbbd828519d270cc7e72f0b024b93fa5ae8
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=a73804e97fd8ffbbd828519d270cc7e72f0b024b93fa5ae8
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: f093b064-0abd-47bd-b1c9-23d9af7a1c51
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f093b064-0abd-47bd-b1c9-23d9af7a1c51
+[NotebookApp | INFO] Starting buffering for f093b064-0abd-47bd-b1c9-23d9af7a1c51:4386a8738abc4435aa28003d305c2fc8
+[NotebookApp | INFO] Kernel shutdown: f093b064-0abd-47bd-b1c9-23d9af7a1c51
+[NotebookApp | INFO] Kernel started: 3cc7799f-3bc7-4301-ae17-16e00c448535
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3cc7799f-3bc7-4301-ae17-16e00c448535
+[NotebookApp | INFO] Saving file at /scripts/Intro_to_python_pandas.ipynb
+[NotebookApp | INFO] Saving file at /scripts/Intro_to_python_pandas.ipynb
+[NotebookApp | INFO] Saving file at /scripts/Intro_to_python_pandas.ipynb
+[NotebookApp | INFO] Saving file at /scripts/Intro_to_python_pandas.ipynb
+[NotebookApp | INFO] Saving file at /scripts/Intro_to_python_pandas.ipynb
+[NotebookApp | INFO] Saving file at /scripts/Intro_to_python_pandas.ipynb
+[NotebookApp | INFO] Saving file at /scripts/Intro_to_python_pandas.ipynb
+[NotebookApp | INFO] Saving file at /scripts/Intro_to_python_pandas.ipynb
+[NotebookApp | INFO] Kernel started: ae4a92fa-56f8-415d-be6e-7114d8d8cb28
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ae4a92fa-56f8-415d-be6e-7114d8d8cb28
+[NotebookApp | INFO] Starting buffering for 3cc7799f-3bc7-4301-ae17-16e00c448535:4386a8738abc4435aa28003d305c2fc8
+[NotebookApp | INFO] Starting buffering for ae4a92fa-56f8-415d-be6e-7114d8d8cb28:ed67b50bec5c44d691a77dbeb1b828ae
+[NotebookApp | INFO] Kernel shutdown: 3cc7799f-3bc7-4301-ae17-16e00c448535
+[NotebookApp | INFO] Kernel shutdown: ae4a92fa-56f8-415d-be6e-7114d8d8cb28
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/268964i/Documents/TRAINING/SWC-Python
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=e503be16285ee987fe5466ca5938a02a286473ca1f0bea85
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=e503be16285ee987fe5466ca5938a02a286473ca1f0bea85
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 03046a73-5cce-40dd-b5a0-174943ceab92
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 03046a73-5cce-40dd-b5a0-174943ceab92
+[NotebookApp | INFO] Starting buffering for 03046a73-5cce-40dd-b5a0-174943ceab92:4768dd17ce084b849a3d3e2488ee66ba
+[NotebookApp | INFO] Kernel shutdown: 03046a73-5cce-40dd-b5a0-174943ceab92
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
