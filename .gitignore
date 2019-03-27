@@ -3,3 +3,7 @@ python_material/.nbgrader.log
 .DS_Store
 python_material/.DS_Store 
 python_material/data/.DS_Store
+.Rproj.user
+.RData
+.Rhistory
+cic-swc-material.Rproj
